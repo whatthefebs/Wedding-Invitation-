@@ -14,7 +14,7 @@ body {
 }
 
 .cover {
-    background: url('background-image.jpg') no-repeat center center fixed;
+    background: url('https://images.app.goo.gl/jinEv') no-repeat center center fixed;
     background-size: cover;
     height: 100vh;
     display: flex;
